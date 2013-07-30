@@ -39,9 +39,9 @@ Configuration:
 - Edit account information in config.php under in the root folder:
    
  $api_client_id = "YOUR_API_CLIENT_ID";  
- $api_client_secret = "YOUR_CLIENT_SECRET";
- $api_simple_key = "YOUR_SIMPLE_KEY";
- $base_url = "YOUR_URL"; // e.g. "https://example.com/glasswarename"
+ $api_client_secret = "YOUR_CLIENT_SECRET"; 
+ $api_simple_key = "YOUR_SIMPLE_KEY"; 
+ $base_url = "YOUR_URL"; // e.g. "https://example.com/glasswarename" 
  $sqlite_database = "YOUR_DATABASE"; // e.g. "/var/db/glasswarename.sqlite" - make sure it's writeable
  
 
