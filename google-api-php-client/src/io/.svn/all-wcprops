@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/444/www/glassware/bitcointicker/google-api-php-client/src/io
+END
+Google_CurlIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/444/www/glassware/bitcointicker/google-api-php-client/src/io/Google_CurlIO.php
+END
+Google_REST.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/444/www/glassware/bitcointicker/google-api-php-client/src/io/Google_REST.php
+END
+Google_CacheParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/444/www/glassware/bitcointicker/google-api-php-client/src/io/Google_CacheParser.php
+END
+cacerts.pem
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/444/www/glassware/bitcointicker/google-api-php-client/src/io/cacerts.pem
+END
+Google_IO.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/444/www/glassware/bitcointicker/google-api-php-client/src/io/Google_IO.php
+END
+Google_HttpRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/444/www/glassware/bitcointicker/google-api-php-client/src/io/Google_HttpRequest.php
+END
